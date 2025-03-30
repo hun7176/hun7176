@@ -19,9 +19,9 @@ I'm a hardware developer and engineering student passionate about embedded syste
   - Used ROS for image processing and implemented PID control.
 
 ### 📫 Contact
-- **Email**: your.email@example.com
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **Email**: hun7176@naver.com
+- **GitHub**: [hun7176](https://github.com/hun7176)
+- **tistory**: [hun7176]([https://linkedin.com/in/your-linkedin-profile](https://hun7176.tistory.com/))
 
 Feel free to check out my repositories and collaborate on exciting hardware projects! 🚀
 
