@@ -1,4 +1,4 @@
-## 👋 Hi, I'm CHOE SEUNGHEON!
+## 👋 Hi!
 
 I'm a hardware developer and engineering student passionate about embedded systems, FPGA design, and microprocessor-based projects. My experience spans various areas, including digital circuit design, firmware development, and hardware acceleration for signal processing.
 
